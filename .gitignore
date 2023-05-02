@@ -1,0 +1,5 @@
+# Project Files #
+.idea
+
+# Unnecessary Cache #
+__pycache__
